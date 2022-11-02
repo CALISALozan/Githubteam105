@@ -37,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.A03">
+  <component name="RunManager" selected="Application.A04">
     <configuration name="A01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A01" />
       <module name="Githubteamm105" />
@@ -59,8 +59,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="A04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A04" />
+      <module name="Githubteamm105" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A04" />
         <item itemvalue="Application.A03" />
         <item itemvalue="Application.A02" />
         <item itemvalue="Application.A01" />
